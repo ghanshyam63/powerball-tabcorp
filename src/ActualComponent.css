@@ -1,0 +1,52 @@
+
+.label
+{
+display: block;
+text-align: center;
+line-height: .875rem;
+padding: 5px 0;
+vertical-align: middle;
+font-size: .75rem;
+color: #fff;
+font-weight: 900;
+background-color: #6C4796;
+}
+
+
+.CircleDefault
+{
+   
+        display:inline-block;
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        border: 1px solid red;
+        
+      
+}
+.SquareDefault
+{
+    font-weight: 900;
+    height: 40px;
+    width: 40px;
+    background-color: #fff;
+   
+}
+.SquareMarked
+{
+    font-weight: 900;
+    background-image: url(images/ico-strike.svg);
+    background-size: 80%;
+    background-color: #E9E4F0;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 40px;
+}
+.AutoFillButton
+{
+    background-image: url(images/ico-fastselect.svg);
+    background-color: #6C4796;
+    width: 32px;
+    height: 32px;
+}
